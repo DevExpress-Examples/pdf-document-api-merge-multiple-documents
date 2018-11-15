@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/PdfMergeExample/Program.cs) (VB: [Program.vb](./VB/PdfMergeExample/Program.vb))
+<!-- default file list end -->
 # How to merge documents into a single PDF
 
 
