@@ -16,4 +16,4 @@ The Universal Subscription or an additional Office File API Subscription is requ
 
 ## Documentation
 
-* [PDF Document API](https://docs.devexpress.com/OfficeFileAPI/16491/pdf-document-api)
+* [Merge PDF Documents](https://docs.devexpress.com/OfficeFileAPI/119760/pdf-document-api/document-manipulation/merging-documents)
