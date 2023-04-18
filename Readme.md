@@ -17,3 +17,10 @@ The Universal Subscription or an additional Office File API Subscription is requ
 ## Documentation
 
 * [Merge PDF Documents](https://docs.devexpress.com/OfficeFileAPI/119760/pdf-document-api/document-manipulation/merging-documents)
+* [Merge Content of Multiple Pages](https://docs.devexpress.com/OfficeFileAPI/119009/pdf-document-api/pdf-graphics#draw-page-content)
+
+## More Examples
+
+* [PDF Document API - Copy Pages from One Document to Another](https://github.com/DevExpress-Examples/pdf-document-api-copy-pages)
+* [PDF Document API - Extract Pages from a Document](https://github.com/DevExpress-Examples/pdf-document-api-extract-pages-from-document)
+* 
