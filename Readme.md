@@ -23,4 +23,4 @@ The Universal Subscription or an additional Office File API Subscription is requ
 
 * [PDF Document API - Copy Pages from One Document to Another](https://github.com/DevExpress-Examples/pdf-document-api-copy-pages)
 * [PDF Document API - Extract Pages from a Document](https://github.com/DevExpress-Examples/pdf-document-api-extract-pages-from-document)
-* 
+
