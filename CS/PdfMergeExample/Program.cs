@@ -15,7 +15,7 @@ namespace PdfMergeExample
                 pdfDocumentProcessor.AppendDocument("..\\..\\docs\\TextMerge2.pdf");
                 
             }
-            System.Diagnostics.Process.Start("Merged.pdf");
+            System.Diagnostics.Process.Start( new System.Diagnostics.ProcessStartInfo("Merged.pdf") { UseShellExecute = true });
         }
 
     }

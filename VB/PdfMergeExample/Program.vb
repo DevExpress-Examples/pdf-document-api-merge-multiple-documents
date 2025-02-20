@@ -10,8 +10,7 @@ Namespace PdfMergeExample
                 pdfDocumentProcessor.AppendDocument("..\..\docs\TextMerge1.pdf")
                 pdfDocumentProcessor.AppendDocument("..\..\docs\TextMerge2.pdf")
             End Using
-
-            System.Diagnostics.Process.Start("Merged.pdf")
+            Call Process.Start(New ProcessStartInfo("Merged.pdf") With {.UseShellExecute = True})
         End Sub
     End Class
 End Namespace
