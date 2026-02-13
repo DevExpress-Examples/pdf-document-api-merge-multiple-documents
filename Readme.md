@@ -26,7 +26,7 @@ The Universal Subscription or an additional Office File API Subscription is requ
 * [PDF Document API - Extract Pages from a Document](https://github.com/DevExpress-Examples/pdf-document-api-extract-pages-from-document)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-merge-multiple-documents&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-merge-multiple-documents&~~~was_helpful=no)
 
